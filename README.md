@@ -28,5 +28,5 @@ Automated test cases created sing playwright with javascript.
 
 Petronio Bernardino - [@Linkedin](https://www.linkedin.com/in/petronio-bernardino/) - petronio@gmail.com
 
-Project Link: [https://github.com/petroniobernardino/DSR_Test](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/petroniobernardino/DSR_Test](https://github.com/petroniobernardino/DSR_Test)
 
